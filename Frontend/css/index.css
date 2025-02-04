@@ -1,0 +1,16 @@
+.error {
+    color: red;
+}
+
+.is-invalid {
+    border-color: red;
+}
+
+.eye-icon {
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1rem;
+    cursor: pointer;
+  }
+
+
